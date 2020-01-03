@@ -2,7 +2,7 @@
 layout: post
 title:  "Cryptanalysis on Traditional Cipher"
 date:   2019-12-20
-categories: jekyll cat
+categories: dens
 permalink: article/:title
 author: Tanmay Mundra
 ---
