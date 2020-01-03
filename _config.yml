@@ -3,12 +3,12 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://tanmaymundra.github.io"
-baseurl: "/"
+#url: "/"
+#baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+url: "https://tanmaymundra.github.io"
+baseurl: "/"
 
 # Name of website
 title: Tanmay Mundra
@@ -19,21 +19,23 @@ title: Tanmay Mundra
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
 
 # Short description of your site
-description: Let me introduce you to my geek side!
+description: Let me introduce you to my Technical Skills!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Books: "books"
+  #Books: "books"
   About Me: "aboutme"
   Blogs:
-    - VHDL: "https://tanmaymundra.github.io/vhdl"
-    - DENS: "https://tanmaymundra.github.io/blog/dens"
+    - VHDL: "vhdl"
+    - DENS: "blog/dens"
   Projects:
    # - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
   Resume: "resume/tanmay_mundra.pdf"
-#  Tags: "tags"
+  Volunteering: 
+    
+#   Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
