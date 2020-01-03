@@ -29,7 +29,7 @@ navbar-links:
   About Me: "aboutme"
   Blogs:
     - VHDL: "https://tanmaymundra.github.io/vhdl"
-    - DENS: "https://tanmaymundra.github.io/dens"
+    - DENS: "https://tanmaymundra.github.io/blog/dens"
   Projects:
    # - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
   Resume: "resume/tanmay_mundra.pdf"
