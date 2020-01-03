@@ -219,4 +219,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
