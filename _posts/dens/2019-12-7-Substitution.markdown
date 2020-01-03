@@ -2,10 +2,12 @@
 layout: post
 title:  "Substitution/Caesar Cipher!"
 date:   2019-12-7 15:12:54 +0530
-categories: 
+categories: dens
 permalink: article/:title
 author: Tanmay Mundra
-
+tags: [dens,ciphertext,substitution]
+image: https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+share-image: https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
 ---
 
 Cryptography involves communication between two users through coded message. Cryptography is an art and science of concealing the information to introduce privacy and secrecy between the intended users. The three basic goals of security are Confidentiality, Integrity and Availability.
