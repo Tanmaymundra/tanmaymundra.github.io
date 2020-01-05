@@ -3,10 +3,10 @@ layout: books
 title: Tanmay Mundra - My Movies Recommendations
 ---
 <head>
-	<link rel="stylesheet" type="text/css" href="/books/css/book_style.css" />
-	<link rel="stylesheet" type="text/css" href="/books/css/books_component.css" />
+	<link rel="stylesheet" type="text/css" href="/css/book_style.css" />
+	<link rel="stylesheet" type="text/css" href="/css/books_component.css" />
 		<!-- Modernizr is used for flexbox fallback -->
-	<script src="/books/js/modernizr.custom.js"></script>
+	<script src="/js/modernizr.custom.js"></script>
 </head>
 <div class="view">
 	<div class="my__suggestion"><center><h1><br>Movies I Would Recommend</h1></center><div>
