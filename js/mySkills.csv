@@ -1,0 +1,28 @@
+source,target,value
+Web Development,HTML,0
+Web Development,HTML5,0
+Web Development,CSS,0
+UI Frameworks,Bootstrap,2.5
+UI Frameworks,Semantic UI,2.5
+Frameworks & Libraries,Jquery,2
+Frameworks & Libraries,ReactJs,2
+Languages & Scripting,Objective-C,2
+Languages & Scripting,XML,2
+Languages & Scripting,Javascript,2
+Languages & Scripting,Ruby,2
+Languages & Scripting,Python,2
+Languages & Scripting,PowerShell,2
+Languages & Scripting,SQL,2
+Protocols,HTTPS,0
+Protocols,JSON,0
+Protocols,WebSockets,0
+Automated Testing,Selenium,2
+Databases,MongoDB,2.5
+Databases,SQL Server,2.5
+Databases,mySQL,2.5
+IDEs,Sublime Text,2.5
+IDEs,Atom,2.5
+IDEs,Visual Studio 2015,2.5
+IDEs,Arduino,2.5
+Source Control,Github,2.5
+Source Control,Git,2.5
