@@ -124,7 +124,7 @@ share-links-active:
 disqus: "tanmaymundra"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-84991519-1"
+google_analytics: "UA-102258514-2"
 
 # Google Tag Manager ID
 #gtm: ""
