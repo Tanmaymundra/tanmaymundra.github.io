@@ -3,8 +3,9 @@ layout: post
 title:  "Cryptanalysis on Traditional Cipher"
 date:   2019-12-20
 categories: dens
-permalink: article/:title
+permalink: /:categories/article/:title
 author: Tanmay Mundra
+tags: [Brute Force, Caesar,Encryption]
 ---
 
 Cryptography is the science and art of creating secret codes, whereas cryptanalysis is the science and art of breaking those codes. We need to learn cryptanalysis techniques to understand the vulnerability of our cryptosystem and enables us to strengthen it. 
