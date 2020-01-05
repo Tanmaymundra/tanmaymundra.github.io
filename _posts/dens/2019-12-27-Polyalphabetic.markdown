@@ -4,7 +4,7 @@ title:  Polyalphabetic Vigenere Cipher
 subtitle: Implement encryption 
 date:   2019-11-27 15:12:54 +0530
 categories: dens
-
+permalink: /:categories/article/:title
 
 ---
 
