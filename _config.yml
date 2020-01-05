@@ -36,8 +36,10 @@ navbar-links:
     - DENS: "blog/dens"
   Projects:
    # - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
-  Resume: "resume/tanmay_mundra.pdf"
-  #Volunteering: 
+  Resume:
+    - Infographic: "infographics"
+    - PDF: "/data/resume.pdf" 
+  
 
 #   Tags: "tags"
 
