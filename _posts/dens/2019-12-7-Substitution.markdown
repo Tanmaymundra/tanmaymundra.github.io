@@ -3,7 +3,7 @@ layout: post
 title:  "Substitution/Caesar Cipher!"
 date:   2019-12-7 15:12:54 +0530
 categories: dens
-permalink: article/:title
+permalink: /:categories/article/:title
 author: Tanmay Mundra
 tags: [dens,ciphertext,substitution]
 image: https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
