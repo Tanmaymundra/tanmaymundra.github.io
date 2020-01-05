@@ -1,0 +1,15 @@
+[{
+	"title":"Breaking Bad",
+	"image":"https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL50_SY1000_CR0,0,718,1000_AL_.jpg",
+	"Rating":"9.5",
+	"reviews":"https://www.imdb.com/title/tt0903747"
+
+},
+{
+	"title":"White Collar",
+	"image":"https://m.media-amazon.com/images/M/MV5BNDI5MDgyMTYzNF5BMl5BanBnXkFtZTcwMjAwNzk1Mw@@._V1_QL50_.jpg",
+	"Rating":"8.2",
+	"reviews":"https://www.imdb.com/title/tt1358522"
+
+}
+]
