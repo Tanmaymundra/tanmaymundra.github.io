@@ -26,15 +26,19 @@ description: Let me introduce you to my Technical Skills!
 # List of links in the navigation bar
 navbar-links:
   #Books: "books"
-  About Me: "aboutme"
+  About Me:
+    - Movies: "movies"
+    - Series: "series"
+    - Books : "books"
+    - Myself: "aboutme"
   Blogs:
     - VHDL: "vhdl"
     - DENS: "blog/dens"
   Projects:
    # - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
   Resume: "resume/tanmay_mundra.pdf"
-  Volunteering: 
-    
+  #Volunteering: 
+
 #   Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -50,11 +54,10 @@ avatar: "/img/bc.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-# navbar-col: "orange"
+#navbar-col: "orange"
 # navbar-img: "/img/bgimage.png"
-# footer-col: "blue"
+#footer-col: "blue"
 # footer-img: "/img/bgimage.png"
-# page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -67,9 +70,9 @@ author:
   facebook: tanmaymundra
   github: tanmaymundra
   twitter: not_tanmayy
-# google-plus: +AnuditVerma
+# google-plus:
   linkedin: tanmay-mundra
-#  stackoverflow: 4590331/anudit-verma
+#  stackoverflow: 
   instagram: tanmay_mundra
 # reddit: yourname
 # xing: yourname
@@ -142,7 +145,7 @@ timezone: "Asia/Kolkata"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 2
 
 kramdown:
   input: GFM
