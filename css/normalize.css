@@ -425,3 +425,8 @@ td,
 th {
   padding: 0;
 }
+
+input[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  box-sizing: content-box;
+}
