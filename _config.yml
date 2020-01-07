@@ -25,11 +25,10 @@ description: Let me introduce you to my Technical Skills!
 
 # List of links in the navigation bar
 navbar-links:
-  #Books: "books"
   About Me:
-    - Movies: "movies"
-    - Series: "series"
-    - Books : "books"
+    - Movies: "about/movies"
+    - Series: "about/series"
+    - Books : "about/books"
     - Myself: "aboutme"
   Blogs:
     - VHDL: "vhdl"
@@ -39,7 +38,7 @@ navbar-links:
   Resume:
     - Infographic: "infographics"
     - PDF: "/data/resume.pdf" 
-  
+nav-search: "search"  
 
 #   Tags: "tags"
 
@@ -57,7 +56,7 @@ avatar: "/img/bc.png"
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 #navbar-col: "orange"
-# navbar-img: "/img/bgimage.png"
+navbar-img: "/img/bigimg/Naneghat6.jpg"
 #footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
@@ -75,7 +74,7 @@ author:
 # google-plus:
   linkedin: tanmay-mundra
 #  stackoverflow: 
-  instagram: tanmay_mundra
+# instagram: tanmay_mundra
 # reddit: yourname
 # xing: yourname
 # stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -85,18 +84,19 @@ author:
 # steam: yourname
 # twitch: yourname
 # yelp: yourname
+#  medium:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
-  email: false
+  email: true
   twitter: true
-  google-plus: true
+  google-plus: false
   github: true
   linkedin: true
   stackoverflow: false
-  instagram: true
+  instagram: false
   reddit: false
   xing: false
   stackoverflow: false
@@ -106,6 +106,7 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
+  medium: false
 
 # Select which share links to show in posts
 share-links-active:
