@@ -25,7 +25,7 @@ permalink: about/series
 		{% endfor %}				
 		</section>
 		<center>
-			<h3>Bookworm eh? Follow me on <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" height="60" width="60" /></a></h3>
+			<h3>Follow me on <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg" height="60" width="60" /></a></h3>
 		</center>
 	</div>
 </div>
