@@ -33,8 +33,7 @@ navbar-links:
   Blogs:
     - VHDL: "vhdl"
     - DENS: "blog/dens"
-  Projects:
-   # - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
+  #Projects:
   Resume:
     - Infographic: "infographics"
     - PDF: "/data/resume.pdf" 
@@ -56,9 +55,9 @@ avatar: "/img/bc.png"
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 #navbar-col: "orange"
-navbar-img: "/img/bigimg/Naneghat6.jpg"
-#footer-col: "blue"
-# footer-img: "/img/bgimage.png"
+navbar-img: "/img/front-bag.jpg"
+#footer-col: "light-blue"
+footer-img: "/img/front-bag.jpg"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
