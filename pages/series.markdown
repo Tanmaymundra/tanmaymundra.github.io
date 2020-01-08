@@ -15,7 +15,7 @@ permalink: about/series
 		{% for serie in site.data.Series %}
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="{{serie.image}}" alt="{{serie.title}}" />
+					<img class="product__image" src="{{serie.image}}" height="320px" alt="{{serie.title}}" />
 					<h3 class="product__title">{{serie.title}}</h3>
 					<span class="product__rating highlight">{{serie.Rating}}</span>
 					<!--h4 class="product__rating"> {{serie.Rating}}</h4-->
