@@ -129,6 +129,14 @@
      font-weight: bold;
      color: #797BED;
 }
+
+ .product__rating{
+     font-family: 'Lato', Calibri, Arial, sans-serif;
+     -webkit-font-smoothing: antialiased;
+     font-weight: bold;
+	 font-size: 18px;
+     color: #797BED;
+}
  .action {
      display: inline-block;
      font-size: 1em;
