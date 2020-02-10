@@ -1,0 +1,61 @@
+---
+layout: post
+title: Data Encyption
+subtitle: Unit 1
+date: 2020-01-05 15:12:54 +0530
+categories: dens
+permalink: /:categories/article/:title
+---
+
+
+
+# Cryptography
+
+Cryptography is a method of protecting information and communications through the use of codes so that only those for whom the information is intended can read and process it. It is a science of making ciphers or algorithms.
+<br>
+Cryptanalytics is a science of Breaking Cipher. Cryptography & Cryptanalytics together is known as Cryptology.
+<br>
+These Algorithm are published in public domain. It also relies on secret piece of information called as `key`
+
+Cryptographic algorithms has to achieve
+
+<h3>
+  <li> Confidentiality </li>
+</h3>
+<p>
+  It assures that confidential information is not disclosed to unauthorized individuals. It is also related to storage & Transmission of Information.
+  For Example :
+  <ul>Military - It used for the Concealment of sensitive Information</ul>
+  <ul>Industry - Hiding critical information from competitors</ul>
+  <ul>Banking - Customer accounts needs to be kept secured incase of unauthorised access</ul>
+</p>
+
+<h3>
+  <li> Integrity </li>
+</h3>
+<p>
+  Information to be communicated keeps changing. This change should be made by authorised users only
+  <li> To ensure integrity of data</li>
+  <li> Prevent modification</li>
+  <li> Detect any modification made</li>
+</p>
+
+<h3>
+  <li> Availability </li>
+</h3>
+<p>
+  Confidentiality and integrity should not hinder availability of data. It should be noted that
+  <li>Service is not denied to authorized users</li>
+  <li>Cryptographic mechanism cause overhead</li>
+  <li>Therefore fast mechanism should be used so that systems work promptly</li>
+</p>
+
+<hr>
+
+Cryptography can also do things like
+
+<li> <strong>Digital Signatures</strong> - Function of Content of Document</li>
+<li><strong>Anonymous Communication</strong> - Communication uses proxies. Identity of the user is encrypted</li>
+
+<br><br><br>
+
