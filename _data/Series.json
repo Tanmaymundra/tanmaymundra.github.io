@@ -2,6 +2,7 @@
 	"title":"Breaking Bad",
 	"image":"https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL50_SY1000_CR0,0,718,1000_AL_.jpg",
 	"Rating":"9.5",
+	"Seasons":"5",
 	"reviews":"https://www.imdb.com/title/tt0903747"
 
 },
@@ -9,6 +10,7 @@
 	"title":"White Collar",
 	"image":"https://m.media-amazon.com/images/M/MV5BNDI5MDgyMTYzNF5BMl5BanBnXkFtZTcwMjAwNzk1Mw@@._V1_QL50_.jpg",
 	"Rating":"8.2",
+	"Seasons":"6",
 	"reviews":"https://www.imdb.com/title/tt1358522"
 
 },
@@ -16,18 +18,21 @@
 	"title": "The Office",
 	"image":"https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY999_CR0,0,665,999_AL_.jpg",
 	"Rating":"8.8",
+	"Seasons":"9",
 	"reviews":"https://www.imdb.com/title/tt0386676"
 },
 {
 	"title": "Parks &  Recreations",
 	"image":"https://m.media-amazon.com/images/M/MV5BMjA4Mzg3OTY5NF5BMl5BanBnXkFtZTcwMzY5ODE1Nw@@._V1_QL50_.jpg",
 	"Rating":"8.6",
+	"Seasons":"7",
 	"reviews":"https://www.imdb.com/title/tt1266020"
 },
 {
 	"title":"Brooklyn Nine-Nine",
 	"image":"https://m.media-amazon.com/images/M/MV5BMGU3NGYyYTYtYjIzMS00ZmUwLTlmMjAtZDhhMzFiNWI0NzNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY1000_CR0,0,701,1000_AL_.jpg",
 	"Rating":"8.4",
+	"Seasons":"6",
 	"reviews":"https://www.imdb.com/title/tt2467372"
 
 },
@@ -35,6 +40,7 @@
 	"title":"	The Marvelous Mrs. Maisel",
 	"image":"https://m.media-amazon.com/images/M/MV5BZTFhMDdmODEtN2UwOS00ZjQwLTgxMGYtM2JlMGM3YTUyM2FjXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_QL50_.jpg",
 	"Rating":"8.8",
+	"Seasons":"3",
 	"reviews":"https://www.imdb.com/title/tt5788792"
 
 },
@@ -42,6 +48,7 @@
 	"title":"Game of Thrones",
 	"image":"https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
 	"Rating":"9.3",
+	"Seasons":"8",
 	"reviews":"https://www.imdb.com/title/tt0944947"
 
 },
@@ -49,6 +56,7 @@
 	"title":"Chernobyl",
 	"image":"https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
 	"Rating":"9.5",
+	"Seasons":"1",
 	"reviews":"https://www.imdb.com/title/tt7366338"
 
 },
@@ -56,6 +64,7 @@
 	"title":"The Good Place",
 	"image":"https://m.media-amazon.com/images/M/MV5BYmMxNjM0NmItNGU1Mi00OGMwLTkzMzctZmE3YjU1ZDE4NmFjXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_QL50_.jpg",
 	"Rating":"8.1",
+	"Seasons":"4",
 	"reviews":"https://www.imdb.com/title/tt4955642"
 
 },
@@ -63,6 +72,7 @@
 	"title":"Suits",
 	"image":"https://m.media-amazon.com/images/M/MV5BNmVmMmM5ZmItZDg0OC00NTFiLWIxNzctZjNmYTY5OTU3ZWU3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL50_.jpg",
 	"Rating":"8.5",
+	"Seasons":"9",
 	"reviews":"https://www.imdb.com/title/tt1632701"
 
 },
@@ -70,6 +80,7 @@
 	"title":"How I Met Your Mother",
 	"image":"https://m.media-amazon.com/images/M/MV5BZWJjMDEzZjUtYWE1Yy00M2ZiLThlMmItODljNTAzODFiMzc2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
 	"Rating":"8.3",
+	"Seasons":"9",
 	"reviews":"https://www.imdb.com/title/tt0460649"
 
 },
@@ -77,6 +88,7 @@
 	"title":"Sherlock",
 	"image":"https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_QL50_.jpg",
 	"Rating":"9.1",
+	"Seasons":"4",
 	"reviews":"https://www.imdb.com/title/tt1475582"
 
 },
@@ -84,6 +96,7 @@
 	"title":"Narcos",
 	"image":"https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL50_.jpg",
 	"Rating":"8.8",
+	"Seasons":"3",
 	"reviews":"https://www.imdb.com/title/tt2707408"
 
 }
