@@ -1,23 +1,45 @@
 source,target,value
 ,,
-Web Development,HTML5,0
-Web Development,CSS,0
-UI Frameworks,Bootstrap,2.5
-Frameworks & Libraries,Jquery,2
-Frameworks & Libraries,ReactJs,2
-Languages & Scripting,Objective-C,2
-Languages & Scripting,Javascript,2
-Languages & Scripting,Python,2
-Languages & Scripting,SQL,2
-Protocols,HTTPS,0
-Protocols,Json,0
-Protocols,WebSockets,0
+Web Development,HTML5,3
+Web Development,CSS3,3
+Web Development,Responsive Design,2.5
+UI Frameworks,Bootstrap,3
+UI Frameworks,Tailwind CSS,2.5
+Frameworks & Libraries,React,3
+Frameworks & Libraries,Node.js,2.5
+Frameworks & Libraries,Express,2
+Languages & Scripting,JavaScript,3
+Languages & Scripting,Python,3
+Languages & Scripting,TypeScript,2.5
+Languages & Scripting,C/C++,2.5
+Languages & Scripting,VHDL,2.5
+Cryptography & Security,Data Encryption,3
+Cryptography & Security,Network Security,2.5
+Cryptography & Security,Cryptanalysis,2
+Electronics & IoT,Arduino,3
+Electronics & IoT,Raspberry Pi,2.5
+Electronics & IoT,Embedded Systems,2.5
+Electronics & IoT,Circuit Design,2
+Protocols,REST API,2.5
+Protocols,HTTPS,2
+Protocols,WebSockets,2
+Protocols,MQTT,1.5
 Databases,MongoDB,2.5
-Databases,SQL Server,2.5
-Databases,mySQL,2.5
-IDEs,Sublime Text,2.5
-IDEs,Atom,2.5
-IDEs,Visual Studio 2015,2.5
-IDEs,Arduino,2.5
-Source Control,Github,2.5
-Source Control,Git,2.5
+Databases,PostgreSQL,2.5
+Databases,MySQL,2.5
+Databases,Redis,2
+DevOps & Tools,Docker,2.5
+DevOps & Tools,Git,3
+DevOps & Tools,GitHub Actions,2
+DevOps & Tools,Linux,2.5
+IDEs & Editors,VS Code,3
+IDEs & Editors,PyCharm,2.5
+IDEs & Editors,Vim,2
+IDEs & Editors,Arduino IDE,2.5
+Robotics,WRO Participant,2.5
+Robotics,Sensor Integration,2.5
+Cloud & Deployment,AWS,2
+Cloud & Deployment,Heroku,2
+Cloud & Deployment,Netlify,2
+Testing & Quality,Unit Testing,2
+Testing & Quality,Integration Testing,1.5

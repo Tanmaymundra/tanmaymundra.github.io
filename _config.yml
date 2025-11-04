@@ -19,7 +19,7 @@ title: Tanmay Mundra
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
 
 # Short description of your site
-description: Let me introduce you to my Technical Skills!
+description: Software Engineer | Cryptography Enthusiast | Electronics & IoT Explorer
 
 # --- Navigation bar options --- #
 
@@ -30,10 +30,10 @@ navbar-links:
     - Series: "about/series"
     - Books : "about/books"
     - Myself: "aboutme"
+  Projects: "projects"
   Blogs:
     - VHDL: "vhdl"
     - DENS: "blog/dens"
-  #Projects:
   Resume:
     - Infographic: "infographics"
     - PDF: "/data/resume.pdf" 
