@@ -19,24 +19,24 @@ title: Tanmay Mundra
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
 
 # Short description of your site
-description: Software Engineer | Cryptography Enthusiast | Electronics & IoT Explorer
+description: Software Engineer from Nordic startups • Hardware Tinkerer • Building solutions from circuits to cloud
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me:
+  About: "aboutme"
+  Experience: "experience"
+  Projects: "projects"
+  Blog:
+    - DENS (Cryptography): "blog/dens"
+    - VHDL: "vhdl"
+  More:
+    - Skills Visualization: "infographics"
+    - Books: "about/books"
     - Movies: "about/movies"
     - Series: "about/series"
-    - Books : "about/books"
-    - Myself: "aboutme"
-  Projects: "projects"
-  Blogs:
-    - VHDL: "vhdl"
-    - DENS: "blog/dens"
-  Resume:
-    - Infographic: "infographics"
-    - PDF: "/data/resume.pdf" 
+  Resume: "/data/resume.pdf"
 nav-search: "search"  
 
 #   Tags: "tags"

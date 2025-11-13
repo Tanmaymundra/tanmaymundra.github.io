@@ -369,3 +369,171 @@ html {
     color: #890000;
     font-weight: 600;
 }
+
+/****************************/
+/**** IMPACT-DRIVEN REVAMP ****/
+/****************************/
+
+/* Page headings with bold impact */
+.main-content h2 {
+    font-size: 2.2em;
+    font-weight: 800;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid;
+    border-image: linear-gradient(90deg, #890000, #008AFF, transparent) 1;
+}
+
+/* Section backgrounds for better readability */
+.main-content > p,
+.main-content > ul {
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: #444;
+}
+
+/* Emphasize key points */
+.main-content h3 + ul li {
+    margin-bottom: 12px;
+    line-height: 1.7;
+}
+
+/* Highlight boxes for important info */
+.main-content blockquote {
+    border-left: 4px solid #890000;
+    background: linear-gradient(135deg, rgba(137, 0, 0, 0.03) 0%, rgba(0, 138, 255, 0.03) 100%);
+    padding: 20px 30px;
+    border-radius: 0 8px 8px 0;
+    margin: 30px 0;
+}
+
+/* Tech stack and skills emphasis */
+.main-content h3:contains("Tech"),
+.main-content h3:contains("Skills"),
+.main-content h3:contains("Tools") {
+    color: #008AFF;
+    background: none;
+    -webkit-text-fill-color: #008AFF;
+}
+
+/* Numbered lists for structured content */
+.main-content ol {
+    counter-reset: item;
+    list-style: none;
+    padding-left: 0;
+}
+
+.main-content ol li {
+    counter-increment: item;
+    padding-left: 50px;
+    position: relative;
+    margin-bottom: 15px;
+    line-height: 1.7;
+}
+
+.main-content ol li:before {
+    content: counter(item);
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: linear-gradient(135deg, #890000 0%, #c41e1e 100%);
+    color: white;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+/* Emoji headers get special treatment */
+.main-content h2:first-letter {
+    font-size: 1.2em;
+}
+
+/* Links within content */
+.main-content a:not(.btn):not(.post-read-more) {
+    color: #008AFF;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.main-content a:not(.btn):not(.post-read-more):hover {
+    border-bottom-color: #008AFF;
+    color: #890000;
+}
+
+/* Better paragraph spacing */
+.main-content > p + p {
+    margin-top: 20px;
+}
+
+/* Section dividers */
+.main-content hr + h2,
+.main-content hr + h3 {
+    margin-top: 60px;
+}
+
+/* Skill badges for inline tech mentions */
+.main-content em {
+    font-style: normal;
+    background: linear-gradient(135deg, rgba(137, 0, 0, 0.08) 0%, rgba(0, 138, 255, 0.08) 100%);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-weight: 600;
+    color: #890000;
+}
+
+/* Call-to-action sections */
+.main-content > h2:last-of-type {
+    background: linear-gradient(135deg, #890000 0%, #008AFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 60px;
+}
+
+/* Footer at bottom of content pages */
+.main-content > p:last-child {
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 40px;
+    padding: 30px;
+    background: linear-gradient(135deg, rgba(137, 0, 0, 0.03) 0%, rgba(0, 138, 255, 0.03) 100%);
+    border-radius: 12px;
+}
+
+/* Mobile optimizations for content */
+@media only screen and (max-width: 768px) {
+    .main-content h2 {
+        font-size: 1.8em;
+        margin-top: 35px;
+    }
+
+    .main-content h3 {
+        font-size: 1.4em;
+        margin-top: 25px;
+    }
+
+    .main-content > p,
+    .main-content > ul {
+        font-size: 1em;
+    }
+
+    .main-content ol li {
+        padding-left: 45px;
+    }
+
+    .main-content ol li:before {
+        width: 30px;
+        height: 30px;
+        font-size: 1em;
+    }
+}
